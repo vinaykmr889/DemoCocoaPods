@@ -10,7 +10,7 @@ xcodeproj 'DemoCocoaPods.xcodeproj'
 workspace 'DemoCocoaPods.xcworkspace'
 
 target 'DemoCocoaPods' do
-  platform :osx, '8.4'
+  platform :ios, '8.4'
   xcodeproj 'DemoCocoaPods.xcodeproj'
 end
 
