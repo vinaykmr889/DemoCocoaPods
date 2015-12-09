@@ -11,6 +11,13 @@
 @interface SSHelloer : NSObject
 
 - (NSString *)hello;
+- (NSString *)hello;
+- (NSString *)hello;
+- (NSString *)hello;
+- (NSString *)hello;
+- (NSString *)hello;
+- (NSString *)hello;
+
 
 
 @end
