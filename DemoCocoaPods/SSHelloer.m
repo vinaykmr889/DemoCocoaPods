@@ -13,6 +13,8 @@
 - (NSString *)hello
 {
     NSLog(@"hello pods");
+    NSLog(@"hello pods12");
+
     return @"Hello from SSHelloer in SampleSubproject!";
 }
 
